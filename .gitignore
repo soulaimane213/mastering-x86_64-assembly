@@ -1,0 +1,4 @@
+*.o
+main
+from_char_to_int
+itoa
